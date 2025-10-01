@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04",
+        "price": 3.50,
+        "description": "Rich and bold single shot of Italian espresso",
+        "category": "coffee"
+    },
+    {
+        "id": 2,
+        "name": "Cappuccino",
+        "image": "https://images.unsplash.com/photo-1534778101976-62847782c213",
+        "price": 4.50,
+        "description": "Espresso with steamed milk and foam topping",
+        "category": "coffee"
+    },
+    {
+        "id": 3,
+        "name": "Latte",
+        "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78",
+        "price": 4.75,
+        "description": "Smooth espresso with steamed milk and light foam",
+        "category": "coffee"
+    },
+    {
+        "id": 4,
+        "name": "Americano",
+        "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd",
+        "price": 3.75,
+        "description": "Espresso shots diluted with hot water",
+        "category": "coffee"
+    },
+    {
+        "id": 5,
+        "name": "Mocha",
+        "image": "https://www.littlesugarsnaps.com/wp-content/uploads/2022/01/white-chocolate-mocha-cream-1.jpg",
+        "price": 5.25,
+        "description": "Espresso with chocolate, steamed milk, and whipped cream",
+        "category": "coffee"
+    },
+    {
+        "id": 6,
+        "name": "Macchiato",
+        "image": "https://images.unsplash.com/photo-1557006021-b85faa2bc5e2",
+        "price": 4.00,
+        "description": "Espresso marked with a dollop of foamed milk",
+        "category": "coffee"
+    },
+    {
+        "id": 7,
+        "name": "Flat White",
+        "image": "https://imag.bonviveur.com/flat-white.jpg",
+        "price": 4.50,
+        "description": "Velvety microfoam over a double shot of espresso",
+        "category": "coffee"
+    },
+    {
+        "id": 8,
+        "name": "Caramel Latte",
+        "image": "https://www.brighteyedbaker.com/wp-content/uploads/2023/07/Iced-Caramel-Latte-with-Caramel-Drizzle-360x480.jpg",
+        "price": 5.50,
+        "description": "Latte with sweet caramel syrup and drizzle",
+        "category": "coffee"
+    },
+    {
+        "id": 9,
+        "name": "Vanilla Latte",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCgnWJ3Bb9b7nx3h7LXPn54O7eZdGtz2Ws6rB10g-_63hLuLvJfYBn6CN0CVXHj4sEyw&usqp=CAU",
+        "price": 5.25,
+        "description": "Classic latte infused with Madagascar vanilla",
+        "category": "coffee"
+    },
+    {
+        "id": 10,
+        "name": "Iced Coffee",
+        "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "price": 4.00,
+        "description": "Chilled coffee served over ice",
+        "category": "coffee"
+    },
+    {
+        "id": 11,
+        "name": "Cold Brew",
+        "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
+        "price": 4.50,
+        "description": "Smooth cold-steeped coffee, less acidic",
+        "category": "coffee"
+    },
+    {
+        "id": 12,
+        "name": "Iced Latte",
+        "image": "https://www.acozykitchen.com/wp-content/uploads/2025/03/IcedLatte-12.jpg",
+        "price": 4.75,
+        "description": "Espresso and cold milk poured over ice",
+        "category": "coffee"
+    },
+    {
+        "id": 13,
+        "name": "Affogato",
+        "image": "https://i.shgcdn.com/e00e0be3-9c95-4cbc-a068-4c9bc3b2980d/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+        "price": 6.00,
+        "description": "Vanilla gelato drowned in hot espresso",
+        "category": "coffee"
+    },
+    {
+        "id": 14,
+        "name": "Cortado",
+        "image": "https://www.skinnymixes.com/cdn/shop/files/Recipe_-_Fall_1024x1024.png?v=1754854059",
+        "price": 4.25,
+        "description": "Equal parts espresso and steamed milk",
+        "category": "coffee"
+    },
+    {
+        "id": 15,
+        "name": "Turkish Coffee",
+        "image": "https://images.unsplash.com/photo-1610889556528-9a770e32642f",
+        "price": 4.50,
+        "description": "Finely ground coffee brewed in traditional cezve",
+        "category": "coffee"
+    },
+    {
+        "id": 16,
+        "name": "Irish Coffee",
+        "image": "https://www.pamperedchef.com/iceberg/com/recipe/2132757-lg.jpg",
+        "price": 7.50,
+        "description": "Coffee with Irish whiskey and cream",
+        "category": "coffee"
+    },
+    {
+        "id": 17,
+        "name": "Pumpkin Spice Latte",
+        "image": "https://www.afarmgirlsdabbles.com/wp-content/uploads/2024/09/pumpkin-spice-latte-afarmgirlsdabbles-01s.jpg",
+        "price": 5.75,
+        "description": "Seasonal latte with pumpkin and warm spices",
+        "category": "coffee"
+    },
+    {
+        "id": 18,
+        "name": "Hazelnut Coffee",
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+        "price": 5.00,
+        "description": "Coffee with rich hazelnut flavoring",
+        "category": "coffee"
+    },
+    {
+        "id": 19,
+        "name": "Nitro Cold Brew",
+        "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "price": 5.50,
+        "description": "Cold brew infused with nitrogen for creamy texture",
+        "category": "coffee"
+    },
+    {
+        "id": 20,
+        "name": "Frappuccino",
+        "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699",
+        "price": 6.00,
+        "description": "Blended coffee drink with ice and whipped cream",
+        "category": "coffee"
+    },
+    {
+        "id": 21,
+        "name": "Chocolate Cake",
+        "image": "https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice.jpg",
+        "price": 6.50,
+        "description": "Rich, moist chocolate layer cake with ganache",
+        "category": "cake"
+    },
+    {
+        "id": 22,
+        "name": "Cheesecake",
+        "image": "https://www.jocooks.com/wp-content/uploads/2018/11/cheesecake-1-22.jpg",
+        "price": 7.00,
+        "description": "Creamy New York style cheesecake with graham crust",
+        "category": "cake"
+    },
+    {
+        "id": 23,
+        "name": "Red Velvet Cake",
+        "image": "https://beyondfrosting.com/wp-content/uploads/2021/03/Red-Velvet-Layer-Cake-23.jpg",
+        "price": 6.75,
+        "description": "Classic red velvet with cream cheese frosting",
+        "category": "cake"
+    },
+    {
+        "id": 24,
+        "name": "Carrot Cake",
+        "image": "https://www.sipandfeast.com/wp-content/uploads/2024/03/carrot-cake-recipe-snippet.jpg",
+        "price": 6.50,
+        "description": "Spiced carrot cake with walnuts and cream cheese icing",
+        "category": "cake"
+    },
+    {
+        "id": 25,
+        "name": "Tiramisu",
+        "image": "https://cdn7.kiwilimon.com/recetaimagen/35448/640x640/42520.jpg.jpg",
+        "price": 7.50,
+        "description": "Italian coffee-soaked ladyfingers with mascarpone",
+        "category": "cake"
+    },
+    {
+        "id": 26,
+        "name": "Black Forest Cake",
+        "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62",
+        "price": 7.25,
+        "description": "Chocolate sponge with cherries and whipped cream",
+        "category": "cake"
+    },
+    {
+        "id": 27,
+        "name": "Lemon Cake",
+        "image": "https://www.crunchycreamysweet.com/wp-content/uploads/2023/02/lemon-cake-2.jpg",
+        "price": 6.00,
+        "description": "Bright and zesty lemon cake with citrus glaze",
+        "category": "cake"
+    },
+    {
+        "id": 28,
+        "name": "Strawberry Shortcake",
+        "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+        "price": 6.75,
+        "description": "Light sponge with fresh strawberries and cream",
+        "category": "cake"
+    },
+    {
+        "id": 29,
+        "name": "Vanilla Sponge Cake",
+        "image": "https://i0.wp.com/shanissweetart.com/wp-content/uploads/2018/03/vanilla-sponge-cake-recipe-1.jpg?fit=600%2C900&ssl=1",
+        "price": 5.50,
+        "description": "Classic fluffy vanilla cake with buttercream",
+        "category": "cake"
+    },
+    {
+        "id": 30,
+        "name": "Matcha Cake",
+        "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e",
+        "price": 7.00,
+        "description": "Japanese green tea cake with white chocolate",
+        "category": "cake"
+    },
+    {
+        "id": 31,
+        "name": "Banana Cake",
+        "image": "https://yeyfood.com/wp-content/uploads/2024/09/WEB1A_slice_of_banana_cake_with_cream_cheese_frosting__b00ca151-b660-4fd8-a2ab-1bd5ab3047ee_1-735x735.jpg",
+        "price": 6.25,
+        "description": "Moist banana cake with caramel frosting",
+        "category": "cake"
+    },
+    {
+        "id": 32,
+        "name": "Opera Cake",
+        "image": "https://thebigmansworld.com/wp-content/uploads/2022/10/opera-cake-recipe.jpg",
+        "price": 8.00,
+        "description": "French almond sponge with coffee buttercream",
+        "category": "cake"
+    },
+    {
+        "id": 33,
+        "name": "Coconut Cake",
+        "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7",
+        "price": 6.50,
+        "description": "Light cake with coconut flakes and cream filling",
+        "category": "cake"
+    },
+    {
+        "id": 34,
+        "name": "Blueberry Cake",
+        "image": "https://blueberry.org/wp-content/uploads/2020/09/Blueberry-Layer-Cake-HERO-FOR-WEB.jpg",
+        "price": 6.75,
+        "description": "Vanilla cake studded with fresh blueberries",
+        "category": "cake"
+    },
+    {
+        "id": 35,
+        "name": "Funfetti Cake",
+        "image": "https://images.unsplash.com/photo-1562440499-64c9a111f713",
+        "price": 6.00,
+        "description": "Colorful sprinkle cake with vanilla frosting",
+        "category": "cake"
+    },
+    {
+        "id": 36,
+        "name": "Pound Cake",
+        "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62",
+        "price": 5.75,
+        "description": "Dense, buttery traditional pound cake",
+        "category": "cake"
+    },
+    {
+        "id": 37,
+        "name": "Coffee Cake",
+        "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+        "price": 6.25,
+        "description": "Cinnamon streusel cake perfect with coffee",
+        "category": "cake"
+    },
+    {
+        "id": 38,
+        "name": "Tres Leches Cake",
+        "image": "https://www.piesandtacos.com/wp-content/uploads/2019/12/chocolate-tres-leches-cake-23.jpg",
+        "price": 7.00,
+        "description": "Latin American sponge soaked in three milks",
+        "category": "cake"
+    },
+    {
+        "id": 39,
+        "name": "Angel Food Cake",
+        "image": "https://www.mykitchenlove.com/wp-content/uploads/2020/04/Strawberry-Angel-Food-Cake-19.jpg",
+        "price": 5.50,
+        "description": "Light and airy egg white cake",
+        "category": "cake"
+    },
+    {
+        "id": 40,
+        "name": "Pineapple Upside Down Cake",
+        "image": "https://thissillygirlskitchen.com/wp-content/uploads/2025/01/Mini-Pineapple-Upside-Down-Cakes-3.jpg",
+        "price": 6.50,
+        "description": "Caramelized pineapple on buttery cake",
+        "category": "cake"
+    },
+    {
+        "id": 41,
+        "name": "Chocolate Chip Cookies",
+        "image": "https://thedefineddish.com/wp-content/uploads/2022/07/Perfect-Paleo-Chocolate-Chip-Cookies-4-scaled.jpg",
+        "price": 3.50,
+        "description": "Classic cookies loaded with chocolate chips",
+        "category": "cookie"
+    },
+    {
+        "id": 42,
+        "name": "Oatmeal Raisin Cookies",
+        "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35",
+        "price": 3.25,
+        "description": "Chewy oatmeal cookies with plump raisins",
+        "category": "cookie"
+    },
+    {
+        "id": 43,
+        "name": "Sugar Cookies",
+        "image": "https://practicallyhomemade.com/wp-content/uploads/2024/06/lofthouse-sugar-cookies-hero1.jpg",
+        "price": 3.00,
+        "description": "Buttery sugar cookies with sweet icing",
+        "category": "cookie"
+    },
+    {
+        "id": 44,
+        "name": "Peanut Butter Cookies",
+        "image": "https://mojo.generalmills.com/api/public/content/359FoSU04U6rsxDyBQZj5g_gmi_hi_res_jpeg.jpeg?v=6d0a2571&t=466b54bb264e48b199fc8e83ef1136b4",
+        "price": 3.50,
+        "description": "Rich peanut butter cookies with fork marks",
+        "category": "cookie"
+    },
+    {
+        "id": 45,
+        "name": "Double Chocolate Cookies",
+        "image": "https://ohsweetbasil.com/wp-content/uploads/Peppermint-Double-Chocolate-Cookies-5.jpg",
+        "price": 3.75,
+        "description": "Fudgy chocolate cookies with chocolate chips",
+        "category": "cookie"
+    },
+    {
+        "id": 46,
+        "name": "Snickerdoodles",
+        "image": "https://lilluna.com/wp-content/uploads/2024/09/snickerdoodle-recipe-resize-14.jpg",
+        "price": 3.25,
+        "description": "Cinnamon sugar coated soft cookies",
+        "category": "cookie"
+    },
+    {
+        "id": 47,
+        "name": "White Chocolate Macadamia",
+        "image": "https://sourdoughjesha.com/wp-content/uploads/2023/07/White-Chocolate-Macadamia-Sourdough-Cookie-Ice-Cream-Sandwich-on-Counter-scaled-1.jpg",
+        "price": 4.00,
+        "description": "Cookies with white chocolate and macadamia nuts",
+        "category": "cookie"
+    },
+    {
+        "id": 48,
+        "name": "Ginger Snap Cookies",
+        "image": "https://dashofsanity.com/wp-content/uploads/2019/10/chocolate-covered-ginger-cookies-1024x683.jpg",
+        "price": 3.25,
+        "description": "Spicy ginger cookies with molasses",
+        "category": "cookie"
+    },
+    {
+        "id": 49,
+        "name": "Shortbread Cookies​​​​​​​​ Strawberry​​",
+        "image": "https://bakesbybrownsugar.com/wp-content/uploads/2020/05/Strawberry-Shortbread-Cookies-64.jpg",
+        "price": 3.50,
+        "description": "Buttery Scottish shortbread cookies",
+        "category": "cookie"
+    },
+    {
+        "id": 50,
+        "name": "Macarons",
+        "image": "https://lovefoodfeed.com/wp-content/uploads/2023/01/Macarons-px-1200-01-1.jpg",
+        "price": 4.50,
+        "description": "French almond meringue cookies with filling",
+        "category": "cookie"
+    },
+    {
+        "id": 51,
+        "name": "Biscotti",
+        "image": "https://dirtydishesmessykisses.com/wp-content/uploads/2024/09/orange-almond-biscotti-recipe-1727348543.jpg",
+        "price": 3.75,
+        "description": "Twice-baked Italian almond cookies",
+        "category": "cookie"
+    },
+    {
+        "id": 52,
+        "name": "Thumbprint Cookies",
+        "image": "https://elavegan.com/wp-content/uploads/2021/11/vegan-raspberry-thumbprint-cookies.jpg",
+        "price": 3.50,
+        "description": "Buttery cookies with jam center",
+        "category": "cookie"
+    },
+    {
+        "id": 53,
+        "name": "Linzer Cookies",
+        "image": "https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2022/11/Linzer_Cookies-1-2.jpg",
+        "price": 4.00,
+        "description": "Austrian sandwich cookies with raspberry jam",
+        "category": "cookie"
+    },
+    {
+        "id": 54,
+        "name": "Peanut Butter Blossoms",
+        "image": "https://bakerstable.net/wp-content/uploads/2022/12/peanut-butter-blossoms-16-e1670943503250.jpg",
+        "price": 3.50,
+        "description": "Peanut butter cookies topped with chocolate kiss",
+        "category": "cookie"
+    },
+    {
+        "id": 55,
+        "name": "Lemon Cookies",
+        "image": "https://krollskorner.com/wp-content/uploads/2023/04/lemoncurdcookiesredo_11-1032.jpg",
+        "price": 3.25,
+        "description": "Zesty lemon cookies with powdered sugar",
+        "category": "cookie"
+    },
+    {
+        "id": 56,
+        "name": "Coconut Macaroons",
+        "image": "https://www.365daysofbakingandmore.com/wp-content/uploads/2015/03/Coconut-Macaroons-1-1.jpg",
+        "price": 3.50,
+        "description": "Chewy coconut cookies dipped in chocolate",
+        "category": "cookie"
+    },
+    {
+        "id": 57,
+        "name": "Brownie Cookies",
+        "image": "https://tidymom.net/blog/wp-content/uploads/2023/08/cosmic-brownie-cookies-pic-650x975.jpg",
+        "price": 3.75,
+        "description": "Fudgy cookies with crinkly tops like brownies",
+        "category": "cookie"
+    },
+    {
+        "id": 58,
+        "name": "Almond Cookies",
+        "image": "https://www.shugarysweets.com/wp-content/uploads/2022/01/almond-cookie-recipe.jpg",
+        "price": 3.50,
+        "description": "Crispy cookies topped with whole almonds",
+        "category": "cookie"
+    },
+    {
+        "id": 59,
+        "name": "Maple Cookies",
+        "image": "https://twisttravelmag.com/wp-content/uploads/2020/12/Maple-Cream-Cookies-108.jpg",
+        "price": 3.50,
+        "description": "Soft cookies with maple syrup glaze",
+        "category": "cookie"
+    },
+    {
+        "id": 60,
+        "name": "Monster Cookies",
+        "image": "https://princesspinkygirl.com/wp-content/uploads/2022/12/cookie-monster-cookies-52SQ1200.jpg",
+        "price": 4.00,
+        "description": "Loaded cookies with oats, chocolate, and M&Ms",
+        "category": "cookie"
+    }
+]
